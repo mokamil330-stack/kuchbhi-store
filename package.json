@@ -1,0 +1,20 @@
+{
+  "name": "kuchbhi-store",
+  "version": "1.0.0",
+  "description": "KUCHBHI Luxury Ecommerce Store",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve ."
+  },
+  "keywords": [
+    "ecommerce",
+    "luxury",
+    "kuchbhi",
+    "shopping"
+  ],
+  "author": "Mohd Qamil",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
